@@ -15,6 +15,8 @@ Paletli Tank Seti’ni Arduino ile gerçekleştireceğiniz mobil projeler için 
 - Otonom şekilde giden bir tank tasarlayabilirsiniz.
 - Kısacası siz ne hayal ederseniz bu robotu o şekilde kullanabilirsiniz.
 
+[![](https://img.youtube.com/vi/CNxq6mdhXd4/0.jpg)](https://www.youtube.com/watch?v=CNxq6mdhXd4)
+
 ## Paket İçeriği
 
 - [Arduino Nano Klon - USB Kablo Hediyeli - (USB Chip CH340)](https://www.robotistan.com/arduino-nano "Heading Link")
