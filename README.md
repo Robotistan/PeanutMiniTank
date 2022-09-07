@@ -1,6 +1,6 @@
 # [Mini Tank](https://www.robotistan.com/mini-paletli-robot-platformu-elektronikli "Heading link")
-![)](https://user-images.githubusercontent.com/111511331/188843444-e994ed81-d4db-4563-a6d4-83185bbbbe4c.jpg)
 
+<img src="https://www.robotistan.com/Data/EditorFiles/mini-tank.jpg" width="700" height="700">
 
 ## [Mini Paletli Robot Platformu](https://www.robotistan.com/mini-paletli-robot-platformu-elektroniksiz "Heading link")
 
