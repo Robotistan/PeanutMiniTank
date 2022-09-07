@@ -1,5 +1,5 @@
 # [Mini Tank](https://www.robotistan.com/mini-paletli-robot-platformu-elektronikli "Heading link")
-![](https://image.robotistan.com/mini-paletli-robot-platformu-elektronikli-26105-81-O.jpg)
+![)](https://user-images.githubusercontent.com/111511331/188843444-e994ed81-d4db-4563-a6d4-83185bbbbe4c.jpg)
 
 
 ## [Mini Paletli Robot Platformu](https://www.robotistan.com/mini-paletli-robot-platformu-elektroniksiz "Heading link")
@@ -16,6 +16,7 @@ Paletli Tank Seti’ni Arduino ile gerçekleştireceğiniz mobil projeler için 
 - Kısacası siz ne hayal ederseniz bu robotu o şekilde kullanabilirsiniz.
 
 [![](https://img.youtube.com/vi/CNxq6mdhXd4/0.jpg)](https://www.youtube.com/watch?v=CNxq6mdhXd4)
+
 
 ## Paket İçeriği
 
