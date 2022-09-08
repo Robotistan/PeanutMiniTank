@@ -4,8 +4,9 @@
 
 ## [Mini Paletli Robot Platformu](https://www.robotistan.com/mini-paletli-robot-platformu-elektroniksiz "Heading link")
 
-2 Motorlu ve paletli yapısıyla her zemin ve ortamda kullanılması için tasarlanmış olan Paletli Mini Tank Seti'dir.
-Paletli Tank Seti’ni Arduino ile gerçekleştireceğiniz mobil projeler için kullanabilirsiniz. Paletli yapısı sayesinde engebeli yüzeylerde de zorlanmadan hareket edebilir. Alt kısmına çizgi izleyen sensör yerleştirerek belirli çizgileri izlemesini de sağlayabilirsiniz. Mobil araştırma robotu, bomba imha robotu, faydalı yük taşıyıcı, haritalama gibi farklı projelere adapte edebilirsiniz. 
+Kullanıcı tarafından, kullanım kılavuzuna bağlı kalarak kurulumu yapılan, üzerinde bulundurduğu arduino mikro işlemci kartı ve sensörler sayesinde kodlanarak çeşitli projelerin yapıldığı 2 motor ve 2 paletli mini tank setidir.
+Paletli mini tank paletli yapısı sayesinde engebeli yüzeylerde zorlanmadan hareket edebilir. Aynı zamanda üzerinde bulundurduğu sensörler sayesinde çeşitli prolerde kullanılabilir. 
+
 
 ## Neler Yapılabilir?
 
