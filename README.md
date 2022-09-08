@@ -1,6 +1,6 @@
 # [Mini Tank](https://www.robotistan.com/mini-paletli-robot-platformu-elektronikli "Heading link")
 
-<img src="https://www.robotistan.com/Data/EditorFiles/mini-tank.jpg" width="700" height="700">
+<img src="https://www.robotistan.com/Data/EditorFiles/mini-tank.jpg" width="600" height="600">
 
 ## [Mini Paletli Robot Platformu](https://www.robotistan.com/mini-paletli-robot-platformu-elektroniksiz "Heading link")
 
@@ -17,6 +17,7 @@ Paletli mini tank paletli yapısı sayesinde engebeli yüzeylerde zorlanmadan ha
 - Kısacası siz ne hayal ederseniz bu robotu o şekilde kullanabilirsiniz.
 
 [![](https://img.youtube.com/vi/CNxq6mdhXd4/0.jpg)](https://www.youtube.com/watch?v=CNxq6mdhXd4)
+
 
 
 ## Paket İçeriği
