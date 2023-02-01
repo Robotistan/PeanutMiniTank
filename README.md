@@ -1,4 +1,4 @@
-# [Mini Tank](https://www.robotistan.com/mini-paletli-robot-platformu-elektronikli "Heading link")
+# [Peanut Mini Tank](https://www.robotistan.com/mini-paletli-robot-platformu-elektronikli "Heading link")
 
 <img src="https://www.robotistan.com/Data/EditorFiles/mini-tank.jpg" width="600" height="600">
 
