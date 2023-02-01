@@ -2,7 +2,7 @@
 
 <img src="https://www.robotistan.com/Data/EditorFiles/mini-tank.jpg" width="600" height="600">
 
-## [Mini Paletli Robot Platformu](https://www.robotistan.com/mini-paletli-robot-platformu-elektroniksiz "Heading link")
+## [Peanut Paletli Mini Robot Platformu](https://www.robotistan.com/mini-paletli-robot-platformu-elektroniksiz "Heading link")
 
 Kullanıcı tarafından, kullanım kılavuzuna bağlı kalarak kurulumu yapılan, üzerinde bulundurduğu arduino mikro işlemci kartı ve sensörler sayesinde kodlanarak çeşitli projelerin yapıldığı 2 motor ve 2 paletli mini tank setidir.
 Paletli mini tank paletli yapısı sayesinde engebeli yüzeylerde zorlanmadan hareket edebilir. Aynı zamanda üzerinde bulundurduğu sensörler sayesinde çeşitli prolerde kullanılabilir. 
